@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Stock Trade](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/stock..jpeg?raw=true"/>
 
 ---
 [Connect Four](/pdf/sample_presentation.pdf)
