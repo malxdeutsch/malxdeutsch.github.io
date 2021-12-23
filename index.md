@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### GitHub Links
 
 - [Stock Trade](https://github.com/malxdeutsch/stocktrade)
 - [Connect Four](https://github.com/malxdeutsch/hackathon)
