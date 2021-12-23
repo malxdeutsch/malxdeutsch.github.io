@@ -2,17 +2,17 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
 [Stock Trade](/sample_page)
 <img src="images/stock..jpeg?raw=true"/>
 
 ---
-[Connect Four](/pdf/sample_presentation.pdf)
+[Connect Four](/sample_page)
 <img src="images/connect4.webp?raw=true"/>
 
 ---
-[Film](http://example.com/)
+[Film](/sample_page)
 <img src="images/film.jpeg?raw=true"/>
 
 ---
